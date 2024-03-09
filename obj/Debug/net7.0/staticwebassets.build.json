@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "hpP75WnS+JeoXRmmSQyUf8h7+WyMCCUFEHTAFsP2BH8=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\Operator\\Desktop\\Конкурс\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Operator\\Desktop\\Конкурс\\API\\wwwroot\\CreatePacient.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Operator\\Desktop\\Конкурс\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "CreatePacient.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CreatePacient.html"
+    },
+    {
+      "Identity": "C:\\Users\\Operator\\Desktop\\Конкурс\\API\\wwwroot\\Index.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Operator\\Desktop\\Конкурс\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Operator\\Desktop\\Конкурс\\API\\wwwroot\\scripts\\CreatePacient.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Operator\\Desktop\\Конкурс\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "scripts/CreatePacient.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\CreatePacient.js"
+    }
+  ]
+}
